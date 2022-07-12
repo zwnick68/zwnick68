@@ -1,6 +1,6 @@
 **A Musician and Newly Minted Software Engineer??**
 
-Hello! My name is Nicky Zwiren and I am a former content writer and current software engineer. I recently graduated from the in-person software engineering program at the Flatiron School in New York City. At Flatiron I truly cultivated a love for programming, all due to the passion that my instructor and cohort mates brought to the table. I am currently looking for both frontend and backend work, as I am trying to broaden my horizons with any opportunity that comes my way. 
+Hello! My name is Nicky Zwiren and I am a former content writer and current software engineer. I recently graduated from the in-person software engineering program at the Flatiron School in New York City. At Flatiron I truly cultivated a love for programming, all due to the passion that my instructor and classmates brought to the table. I am currently looking for both frontend and backend work, as I am trying to broaden my horizons with any opportunity that comes my way. 
 
 **Cross - An MMA Mobile Statistics App**
 
